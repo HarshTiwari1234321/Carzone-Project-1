@@ -21,7 +21,7 @@ def inquiry(request):
             user_id=request.user.id
             has_contacted=Contact.objects.all().filter(car_id=car_id,user_id=user_id)
             if has_contacted:
-                messages.error(request,'Yau have already made an inquiry about this car. Please wait until we get back to you.')
+                messages.error(request,'You have already added this car!')
                 return redirect('/cars/'+car_id)
 
         contact = Contact(car_id=car_id,car_title=car_title,user_id=user_id,
@@ -29,5 +29,5 @@ def inquiry(request):
         state=state, email=email, phone=phone, message=message)
 
         contact.save()
-        messages.success(request,'Your request has been submitted, we will get back to you shortly.')
+        messages.success(request,'Your car has been added to cart!')
         return redirect('/cars/'+car_id)
