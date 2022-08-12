@@ -7,7 +7,7 @@ In this Bootstrap template is implemented and turn it into the front end of the 
 
 ## About the website
 
-- Implemented HTML/Bootstrap template & Customized Django Admin Panel
+- Customized Django Admin Panel
 - Setup Virtual Environment
 - Created Django Apps
 - Database Schema, Models and Migrations
