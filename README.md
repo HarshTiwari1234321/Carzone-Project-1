@@ -10,9 +10,9 @@ The basic scenario of this project is a website for a car business owner who wan
 - Setup Virtual Environment
 - Created Django Apps
 - Database Schema, Models and Migrations
-- Implemented RichText Editor & Multi-Select Fields on Admin Backend
 - Fetched Database Objects
 - Pagination
 - Search Functionality
 - User Authentication
-- Database Dump Data & Load Data (local & remote)
+- Git
+- Django Static Files & Media Files
