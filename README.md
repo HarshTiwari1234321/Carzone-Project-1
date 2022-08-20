@@ -9,7 +9,7 @@ The basic scenario of this project is a website for a car business owner who wan
 - Customized Django Admin Panel
 - Setup Virtual Environment
 - Created Django Apps
-- Database Schema, Models and Migrations
+- Database Models and Migrations
 - Pagination
 - Search Functionality
 - User Authentication
