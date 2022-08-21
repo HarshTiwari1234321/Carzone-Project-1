@@ -12,4 +12,3 @@ The basic scenario of this project is a website for a car business owner who wan
 - Database Models and Migrations
 - Search Functionality
 - User Authentication
-- Django Static Files & Media Files
