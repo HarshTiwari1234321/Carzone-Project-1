@@ -10,8 +10,6 @@ The basic scenario of this project is a website for a car business owner who wan
 - Setup Virtual Environment
 - Created Django Apps
 - Database Models and Migrations
-- Pagination
 - Search Functionality
 - User Authentication
-- Git
 - Django Static Files & Media Files
