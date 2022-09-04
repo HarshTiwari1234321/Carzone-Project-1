@@ -8,7 +8,7 @@ The basic scenario of this project is a website for a car business owner who wan
 
 - Customized Django Admin Panel
 - Setup Virtual Environment
-- Creating Django Apps0
+- Creating Django Apps
 - PostgreSQL Database Setup
 - Django Static Files & Media Files
 - Django Admin Customisation
